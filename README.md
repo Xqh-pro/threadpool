@@ -10,9 +10,9 @@
 &emsp;&emsp;make  
 
 目录介绍：  
-&emsp;bin/  包含了项目编译的可执行文件 
-&emsp;include/  包含了线程池threadpool.hpp文件，提供线程池的所有功能与接口
+&emsp;bin/  包含了项目编译的可执行文件   
 &emsp;build/  包含了项目编译过程中的中间文件  
+&emsp;include/  包含了线程池threadpool.hpp文件，提供线程池的所有功能与接口  
 &emsp;src/  包含了源文件，为一个测试cpp文件  
 &emsp;CmakeLists.txt  为cmake构建信息  
 &emsp;autobuild.sh  为自动化编译脚本 
